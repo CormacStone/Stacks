@@ -7,7 +7,7 @@ import java.util.*;
       s.empty();
       System.out.print("Is it empty ");
       System.out.println(s.empty());
-      for(i = 0; i> 100; i++){
+      for(i = 0; i< 100; i++){
       s.push(i);
 }
       s.peek();
